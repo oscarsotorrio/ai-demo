@@ -11,13 +11,14 @@
 
 ---
 
-### 3. Operational Modes of AI Systems
+### 3. Operational Modes and Model Selection
 
-* **3.1 Cognitive Effort Levels** (controlling depth of reasoning and response quality)
-* **3.2 Interactive Query Mode** (direct question–answer interactions)
-* **3.3 Agentic Execution Mode** (autonomous task completion)
-* **3.4 Planning Mode** (structured decomposition of complex tasks)
-* **3.5 Review Modes**
+* **3.1 Cognitive Effort Levels** (choosing the appropriate model based on task requirement)
+* **3.2 Cognitive Effort Levels** (controlling depth of reasoning and response quality)
+* **3.3 Interactive Query Mode** (direct question–answer interactions)
+* **3.4 Agentic Execution Mode** (autonomous task completion)
+* **3.5 Planning Mode** (structured decomposition of complex tasks)
+* **3.6 Review Modes**
 
   * Interactive Review (Q&A-based)
   * Command-driven Review
@@ -52,17 +53,17 @@
 * **7.1 Large Feature Delivery**
 
   * Spec → Plan → Agent Execution
-  * Followed by: Agent Review → Smoke Testing → Cloud-Based Review
+  * Followed by: Agent Review → Smoke Review → Cloud-Based Review
 
 * **7.2 Medium/Small Feature Delivery**
 
   * Plan → Agent Execution
-  * Followed by: Agent Review → Smoke Testing → Cloud-Based Review
+  * Followed by: Agent Review → Smoke Review → Cloud-Based Review
 
 * **7.3 Minor Changes / Enhancements**
 
   * Agent Execution
-  * Followed by: Smoke Testing → Cloud-Based Review
+  * Followed by: Smoke Review → Cloud-Based Review
 
 * **7.4 Bug Fixing**
 
