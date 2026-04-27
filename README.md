@@ -13,7 +13,7 @@
 
 ### 3. Operational Modes and Model Selection
 
-* **3.1 Cognitive Effort Levels** (choosing the appropriate model based on task requirement)
+* **3.1 Model Selection** (choosing the appropriate model based on task requirement)
 * **3.2 Cognitive Effort Levels** (controlling depth of reasoning and response quality)
 * **3.3 Interactive Query Mode** (direct question–answer interactions)
 * **3.4 Agentic Execution Mode** (autonomous task completion)
