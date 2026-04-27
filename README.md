@@ -6,8 +6,8 @@
 
 ### 2. Prompt Engineering Patterns
 
-* **Pattern 1:** Role + Context + Task + Examples
-* **Pattern 2:** Role + Context + Task + Examples + Iterative Feedback Loop (“Ask-back” for clarification and refinement)
+* **Pattern 1:** Role + (Context + Task + Examples)
+* **Pattern 2:** Role + (Context + Task + Examples) + Iterative Feedback Loop (“Ask-back” for clarification and refinement)
 
 ---
 
