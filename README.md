@@ -4,14 +4,14 @@
 
 ---
 
-### 2. Prompt Engineering Patterns
+### 2. Demo. Prompt Engineering Patterns
 
 * **Pattern 1:** Role + (Context + Task + Examples)
 * **Pattern 2:** Role + (Context + Task + Examples) + Iterative Feedback Loop (“Ask-back” for clarification and refinement)
 
 ---
 
-### 3. Operational Modes and Model Selection
+### 3. Demom. Operational Modes and Model Selection
 
 * **3.1 Model Selection** (choosing the appropriate model based on task requirement)
 * **3.2 Cognitive Effort Levels** (controlling depth of reasoning and response quality)
@@ -26,7 +26,7 @@
 
 ---
 
-### 4. GitHub Copilot
+### 4. Demo. GitHub Copilot
 
 * **4.1 IDE Integration (e.g., Visual Studio Code Extension)**
 * **4.2 Web Interface**
@@ -34,7 +34,7 @@
 
 ---
 
-### 5. Claude by Anthropic
+### 5. Demo. Claude by Anthropic
 
 * **5.1 Demonstration: IDE Integration (Visual Studio Code Extension)**
 * **5.2 Demonstration: Command-Line Interface (CLI)**
@@ -45,17 +45,18 @@
 
 * **6.1 Awesome GPT-5.5**
 * **6.2 Cursor (AI-native development environment)**
+* **6.3 And more and more everyday**
 
 ---
 
 ### 7. Personal Development Workflows
 
-* **7.1 Large Feature Delivery**
+* **7.1 Demo. Large Feature Delivery**
 
   * Spec → Plan → Agent Execution
   * Followed by: Agent Review → Smoke Review → Cloud-Based Review
 
-* **7.2 Medium/Small Feature Delivery**
+* **7.2 Demo. Medium/Small Feature Delivery**
 
   * Plan → Agent Execution
   * Followed by: Agent Review → Smoke Review → Cloud-Based Review
