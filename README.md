@@ -11,7 +11,7 @@
 
 ---
 
-### 3. Demom. Operational Modes and Model Selection
+### 3. Demo. Operational Modes and Model Selection
 
 * **3.1 Model Selection** (choosing the appropriate model based on task requirement)
 * **3.2 Cognitive Effort Levels** (controlling depth of reasoning and response quality)
@@ -36,8 +36,8 @@
 
 ### 5. Demo. Claude by Anthropic
 
-* **5.1 Demonstration: IDE Integration (Visual Studio Code Extension)**
-* **5.2 Demonstration: Command-Line Interface (CLI)**
+* **5.1 IDE Integration (Visual Studio Code Extension)**
+* **5.2 Demonstration:Command-Line Interface (CLI)**
 
 ---
 
@@ -45,11 +45,11 @@
 
 * **6.1 Awesome GPT-5.5**
 * **6.2 Cursor (AI-native development environment)**
-* **6.3 And more and more everyday**
+* **6.3 More and more everyday**
 
 ---
 
-### 7. Personal Development Workflows
+### 7. Examples of Development Workflows
 
 * **7.1 Demo. Large Feature Delivery**
 
