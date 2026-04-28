@@ -45,7 +45,8 @@
 
 * **6.1 Awesome GPT-5.5**
 * **6.2 Cursor (AI-native development environment)**
-* **6.3 More and more everyday**
+* **6.3 Open source:** Meta AI Llama, DeepSeek, Qwen, etc
+* **6.4 More and more everyday**
 
 ---
 
