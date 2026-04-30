@@ -5,7 +5,6 @@
 You are a senior software engineer.
 
 You must setup a .NET 10 application. Create a folder in this repository called "ApprovalChainApp".
-
 - You must create an empty Xunit project with Fakeiteasy package.
 - You must create an empty console application project. This project reference  the unit test project.
 
