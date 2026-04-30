@@ -55,17 +55,17 @@
 * **7.1 Demo. Large Feature Delivery**
 
   * Spec → Plan → Agent Execution
-  * Followed by: Agent Review → Human Review → Cloud-Based Review
+  * Followed by: Agent Review → Human Review → Cloud-Based Review -> Human Decission
 
 * **7.2 Demo. Medium/Small Feature Delivery**
 
   * Plan → Agent Execution
-  * Followed by: Agent Review → Human Review → Cloud-Based Review
+  * Followed by: Agent Review → Human Review → Cloud-Based Review -> Human Decission
 
 * **7.3 Minor Changes / Enhancements**
 
   * Agent Execution
-  * Followed by: Human Review → Cloud-Based Review
+  * Followed by: Human Review → Cloud-Based Review -> Human Decission
 
 * **7.4 Bug Fixing**
 
